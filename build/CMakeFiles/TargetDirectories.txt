@@ -1,0 +1,3 @@
+/home/li/my_ls/build/CMakeFiles/rebuild_cache.dir
+/home/li/my_ls/build/CMakeFiles/edit_cache.dir
+/home/li/my_ls/build/CMakeFiles/my_ls.dir
